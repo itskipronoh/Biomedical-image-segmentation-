@@ -1,1 +1,1 @@
-# Biomedical-image-segmentation
+# Biomedical image segmentation
