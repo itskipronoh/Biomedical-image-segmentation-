@@ -1,1 +1,1 @@
-# Biomedical image segmentation with Jupiter notebook 
+# Biomedical image segmentation with pytorch and U-Net
