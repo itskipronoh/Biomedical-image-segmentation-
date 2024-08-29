@@ -1,1 +1,1 @@
-## Biomedical Image segmentation with pytorch and U Net
+## Biomedical Image Segmentation with pytorch and U Net
